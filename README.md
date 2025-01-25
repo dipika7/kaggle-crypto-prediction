@@ -1,4 +1,5 @@
 **Project**: Cryptocurrency Price Prediction Using CatBoost
+
 **Overview**
 This project demonstrates a machine learning pipeline for predicting cryptocurrency prices using the CatBoost algorithm. It highlights the practical implementation of data preprocessing, model training, and performance evaluation for time-series forecasting in the financial domain.
 
